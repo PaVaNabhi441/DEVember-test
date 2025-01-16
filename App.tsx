@@ -8,6 +8,7 @@ export default function App() {
 
     <View style={styles.container}>
       <Text>Punit is handsome</Text>
+      <Text>Abhinay</Text>
       <StatusBar style="auto" />
     </View>
   );
